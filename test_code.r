@@ -1,3 +1,7 @@
+# this code allows the correct variables to be extracted
+# metData must have been uploaded first
+
+
 # extract required variables
 station <- metData[,1]
 year <- metData[,2]
